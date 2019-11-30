@@ -1,0 +1,498 @@
+{
+  "usuarios": [
+    {
+      "id": 0,
+      "primer_nombre": "Luis",
+      "segundo_nombre": "Alberto",
+      "primer_apellido": "Rodríguez",
+      "segundo_apellido": "Arellano",
+      "especialidad": "User Experience",
+      "cedula_profesional": [
+        {
+          "0": "nduwnd239r3hr0"
+        }
+      ],
+      "telefono_celular": "0445554549285",
+      "email": "luisrodriguez@sistemasintegrales.mx",
+      "avenida_calle": "avenida patriotismo",
+      "numero_exterior": "128",
+      "numero_interior": "",
+      "codigo_postal": "07050",
+      "municipio_alcaldia": "Gustavo A. Madero",
+      "estado": "CDMX",
+      "referencias": "Portón café, enfrente de un oxxo",
+      "es_admin": true,
+      "activo": true
+    },
+    {
+      "id": 1,
+      "primer_nombre": "Heraclio",
+      "segundo_nombre": "Constantino",
+      "primer_apellido": "Gutiérrez",
+      "segundo_apellido": "Múgica",
+      "especialidad": "",
+      "cedula_profesional": [
+        {"0": "2m0fi43dnf2"},
+        {"1": "mfm24if3"}
+      ],
+      "telefono_celular": "0445562541073",
+      "email": "hgutierrezmugica@gmail.com",
+      "avenida_calle": "Emiliano Zapata",
+      "numero_exterior": "360",
+      "numero_interior": "E-201",
+      "codigo_postal": "03310",
+      "municipio_alcaldia": "Benito Juárez",
+      "estado": "CDMX",
+      "referencias": "Directo hasta el fondo, junto al elevador",
+      "es_admin": true,
+      "activo": true
+    },
+    {
+      "id": 2,
+      "primer_nombre": "Oscar",
+      "segundo_nombre": "Emiliano",
+      "primer_apellido": "Cervantes",
+      "segundo_apellido": "del Valle",
+      "especialidad": "Desarrollador",
+      "cedula_profesional": [
+        {"0": "4er567t8y98uh"}
+      ],
+      "telefono_celular": "0445540829265",
+      "email": "em.cerv96@gmail.com",
+      "avenida_calle": "Renato Leduc",
+      "numero_exterior": "157",
+      "numero_interior": "",
+      "codigo_postal": "14050",
+      "municipio_alcaldia": "Tlalpan",
+      "estado": "CDMX",
+      "referencias": "Portón verde, casi en la esquina, enfrente de una farmacia",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 3,
+      "primer_nombre": "karla",
+      "segundo_nombre": "",
+      "primer_apellido": "Colina",
+      "segundo_apellido": "Llera",
+      "especialidad": "Diseñadora",
+      "cedula_profesional": [
+        {"0": "5r76gyu"},
+        {"1": "7ftuvbhjk"},
+        {"2": "f67tugyb"}
+      ],
+      "telefono_celular": "0445519646580",
+      "email": "",
+      "avenida_calle": "",
+      "numero_exterior": "",
+      "numero_interior": "",
+      "codigo_postal": "",
+      "municipio_alcaldia": "",
+      "estado": "CDMX",
+      "referencias": "",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 4,
+      "primer_nombre": "Noé",
+      "segundo_nombre": "Abraham",
+      "primer_apellido": "Landaberde",
+      "segundo_apellido": "Cortés",
+      "especialidad": "Geoinformación y Observación Terrestre",
+      "cedula_profesional": [
+        {"0": "576gyuinj"}
+      ],
+      "telefono_celular": "044444 131 4730",
+      "email": "nl@test.com",
+      "avenida_calle": "Medellín",
+      "numero_exterior": "310",
+      "numero_interior": "",
+      "codigo_postal": "06760",
+      "municipio_alcaldia": "Cuauhtémoc",
+      "estado": "CDMX",
+      "referencias": "En la esquina",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 5,
+      "primer_nombre": "Juan",
+      "segundo_nombre": "",
+      "primer_apellido": "Vicente",
+      "segundo_apellido": "Pérez",
+      "especialidad": "Fisioterapeuta",
+      "cedula_profesional": [
+        {"0": "23rede"},
+        {"1": "ewf4356"}
+      ],
+      "telefono_celular": "0445540239265",
+      "email": "jv@test.com",
+      "avenida_calle": "Avenida test",
+      "numero_exterior": "123",
+      "numero_interior": "89",
+      "codigo_postal": "11050",
+      "municipio_alcaldia": "Miguel Hidalgo",
+      "estado": "CDMX",
+      "referencias": "A lado de un Seven",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 6,
+      "primer_nombre": "Diana",
+      "segundo_nombre": "",
+      "primer_apellido": "Rubio",
+      "segundo_apellido": "González",
+      "especialidad": "Infografista",
+      "cedula_profesional": [
+        {"0": "23rede"},
+        {"1": "ewf4356"}
+      ],
+      "telefono_celular": "0445540239265",
+      "email": "jv@test.com",
+      "avenida_calle": "Avenida test",
+      "numero_exterior": "123",
+      "numero_interior": "89",
+      "codigo_postal": "11050",
+      "municipio_alcaldia": "Miguel Hidalgo",
+      "estado": "CDMX",
+      "referencias": "A lado de un Seven",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 7,
+      "primer_nombre": "Carmen",
+      "segundo_nombre": "Beatriz",
+      "primer_apellido": "Hernández",
+      "segundo_apellido": "Hernández",
+      "especialidad": "Psicóloga",
+      "cedula_profesional": [
+        {"0": "23rede"},
+        {"1": "ewf4356"}
+      ],
+      "telefono_celular": "0445540239265",
+      "email": "jv@test.com",
+      "avenida_calle": "Avenida test",
+      "numero_exterior": "123",
+      "numero_interior": "89",
+      "codigo_postal": "11050",
+      "municipio_alcaldia": "Miguel Hidalgo",
+      "estado": "CDMX",
+      "referencias": "A lado de un Seven",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 8,
+      "primer_nombre": "Irvin",
+      "segundo_nombre": "Uriel",
+      "primer_apellido": "Mundo",
+      "segundo_apellido": "Rivera",
+      "especialidad": "Programador",
+      "cedula_profesional": [
+        {"0": "23rede"},
+        {"1": "ewf4356"}
+      ],
+      "telefono_celular": "0445540239265",
+      "email": "jv@test.com",
+      "avenida_calle": "Avenida test",
+      "numero_exterior": "123",
+      "numero_interior": "89",
+      "codigo_postal": "11050",
+      "municipio_alcaldia": "Miguel Hidalgo",
+      "estado": "CDMX",
+      "referencias": "A lado de un Seven",
+      "es_admin": false,
+      "activo": true
+    },
+    {
+      "id": 9,
+      "primer_nombre": "Marina",
+      "segundo_nombre": "",
+      "primer_apellido": "Herández",
+      "segundo_apellido": "Alba",
+      "especialidad": "Tenista",
+      "cedula_profesional": [
+        {"0": "23rede"},
+        {"1": "ewf4356"}
+      ],
+      "telefono_celular": "0445540239265",
+      "email": "jv@test.com",
+      "avenida_calle": "Avenida test",
+      "numero_exterior": "123",
+      "numero_interior": "89",
+      "codigo_postal": "11050",
+      "municipio_alcaldia": "Miguel Hidalgo",
+      "estado": "CDMX",
+      "referencias": "A lado de un Seven",
+      "es_admin": false,
+      "activo": true
+    }
+  ],
+  "Estudio": [
+    {
+      "id": 0,
+      "especialidad": "Especialidad 1",
+      "tipo_estido": "Tipo 1",
+      "metodologia": "metodologia 1",
+      "clave": "567gyhiu",
+      "nombre_estudio": "Análisis Sanguíneo",
+      "costo_estudio": 10999,
+      "es_programa": true,
+      "precio_programa": 5999
+    },
+    {
+      "id": 1,
+      "especialidad": "Especialidad 2",
+      "tipo_estido": "Tipo 2",
+      "metodologia": "metodologia 2",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre 2",
+      "costo_estudio": 10999,
+      "es_programa": true,
+      "precio_programa": 999
+    },
+    {
+      "id": 2,
+      "especialidad": "Especialidad 3",
+      "tipo_estido": "Tipo 3",
+      "metodologia": "metodologia 3",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre 3",
+      "costo_estudio": 10999,
+      "es_programa": true,
+      "precio_programa": 1999
+    },
+    {
+      "id": 3,
+      "especialidad": "Especialidad 4",
+      "tipo_estido": "Tipo 1",
+      "metodologia": "metodologia 3",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre estudio 4",
+      "costo_estudio": 10999,
+      "es_programa": true,
+      "precio_programa": 2999
+    },
+    {
+      "id": 4,
+      "especialidad": "Especialidad 5",
+      "tipo_estido": "Tipo 3",
+      "metodologia": "metodologia 4",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre 5",
+      "costo_estudio": 5999,
+      "es_programa": true,
+      "precio_programa": 1999
+    },
+    {
+      "id": 5,
+      "especialidad": "Especialidad 4",
+      "tipo_estido": "Tipo 3",
+      "metodologia": "metodologia 2",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre estudio 6",
+      "costo_estudio": 21900,
+      "es_programa": true,
+      "precio_programa": 5999
+    },
+    {
+      "id": 6,
+      "especialidad": "Especialidad 4",
+      "tipo_estido": "Tipo 3",
+      "metodologia": "metodologia 2",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre 7",
+      "costo_estudio": 6599,
+      "es_programa": true,
+      "precio_programa": 5999
+    },
+    {
+      "id": 7,
+      "especialidad": "Especialidad 2",
+      "tipo_estido": "Tipo 1",
+      "metodologia": "metodologia 2",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre estudio 8",
+      "costo_estudio": 8799,
+      "es_programa": true,
+      "precio_programa": 5009
+    },
+    {
+      "id": 8,
+      "especialidad": "Especialidad 3",
+      "tipo_estido": "Tipo 7",
+      "metodologia": "metodologia 3",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre 8",
+      "costo_estudio": 11899,
+      "es_programa": true,
+      "precio_programa": 4999
+    },
+    {
+      "id": 9,
+      "especialidad": "Especialidad 2",
+      "tipo_estido": "Tipo 8",
+      "metodologia": "metodologia 5",
+      "clave": "567gyhiu",
+      "nombre_estudio": "nombre estudio 9",
+      "costo_estudio": 9999,
+      "es_programa": true,
+      "precio_programa": 3999
+    }
+  ],
+  "estudios_solicitados": [
+    {
+      "id": 0,
+      "folio": "1575-1415-2773-4",
+      "nombre_paciente": "Alfredo"
+      "apellido_paciente": "Puente Vasconcelos",
+      "fecha_nac": "1-dic-1995",
+      "genero": "masculino",
+      "email": "alfredopv@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": false,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    },
+    {
+      "id": 1,
+      "folio": "1575-1416-4434-7",
+      "nombre_paciente": "Alejandra"
+      "apellido_paciente": "Medrano",
+      "fecha_nac": "16-nov-1990",
+      "genero": "masculino",
+      "email": "alemedrano@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": true,
+      "documentos_listos": false,
+      "estudio_concluido": false
+    },
+    {
+      "id": 2,
+      "folio": "1575-1415-2773-4",
+      "nombre_paciente": "Michelle"
+      "apellido_paciente": "Guadarrama",
+      "fecha_nac": "1-dic-1995",
+      "genero": "masculino",
+      "email": "guadarrama@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "allergan",
+      "pago_realizado": false,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    },
+    {
+      "id": 3,
+      "folio": "1575-1416-4434-7",
+      "nombre_paciente": "Jair"
+      "apellido_paciente": "Sánchez",
+      "fecha_nac": "1-dic-1995",
+      "genero": "masculino",
+      "email": "jsanchez@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": false,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    },
+    {
+      "id": 4,
+      "folio": "1575-1415-2773-4",
+      "nombre_paciente": "Romeo"
+      "apellido_paciente": "Estrada",
+      "fecha_nac": "9-sep-1987",
+      "genero": "masculino",
+      "email": "vittograssi@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": true,
+      "documentos_listos": false,
+      "estudio_concluido": false
+    },
+    {
+      "id": 5,
+      "folio": "1575-1416-4434-7",
+      "nombre_paciente": "Miguel Ignacio"
+      "apellido_paciente": "Mendoza Donatti",
+      "fecha_nac": "22-ago-1983",
+      "genero": "masculino",
+      "email": "miguelm@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": false,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    },
+    {
+      "id": 6,
+      "folio": "1575-1415-2773-4",
+      "nombre_paciente": "Inger"
+      "apellido_paciente": "Devera",
+      "fecha_nac": "1-dic-1995",
+      "genero": "masculino",
+      "email": "ingerdev@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": false,
+      "documentos_listos": false,
+      "estudio_concluido": false
+    },
+    {
+      "id": 7,
+      "folio": "1575-1416-4434-7",
+      "nombre_paciente": "Jesús Alberto"
+      "apellido_paciente": "Miranda Pérez",
+      "fecha_nac": "1-jul-1994",
+      "genero": "masculino",
+      "email": "jesusmiranda@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": true,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    },
+    {
+      "id": 8,
+      "folio": "1575-1415-2773-4",
+      "nombre_paciente": "Natasha"
+      "apellido_paciente": "Araos",
+      "fecha_nac": "15-nov-1984",
+      "genero": "masculino",
+      "email": "naraos@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": true,
+      "documentos_listos": false,
+      "estudio_concluido": false
+    },
+    {
+      "id": 9,
+      "folio": "1575-1416-4434-7",
+      "nombre_paciente": "Adamari"
+      "apellido_paciente": "López",
+      "fecha_nac": "18-may-1971",
+      "genero": "masculino",
+      "email": "alopez@gmail.com",
+      "id_estudio": 1,
+      "etapa": "Solcitud de estudio",
+      "laboratorio": "abbot",
+      "pago_realizado": true,
+      "documentos_listos": true,
+      "estudio_concluido": false
+    }
+  ]
+}
