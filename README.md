@@ -13,8 +13,10 @@
  - "start": "json-server -p 3001 -w db.json"
  - Significado: correrá en el puerto 3001 "-p 3001"
  - Detecta cambios en el archivo "-w db.json"
+7. En la terminal correr \> npm start
 
 ## Opción b) Pasos para su instalación
 1. Bajar el proy de Git
 2. Dar npm install
 3. Editar el archivo db.json si se necesita
+4. En la terminal correr \> npm start
