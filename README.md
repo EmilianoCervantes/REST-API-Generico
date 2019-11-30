@@ -8,6 +8,11 @@
 4. npm install --save json-server
 5. Abrir la carpeta en un editor de código
 6. Crear un archivo llamado db.json
+7. Borrar los scripts que estén - seguramente nada más está el de "test"
+8. Crear un nuevo script:
+ - "start": "json-server -p 3001 -w db.json"
+ - Significado: correrá en el puerto 3001 "-p 3001"
+ - Detecta cambios en el archivo "-w db.json"
 
 ## Opción b) Pasos para su instalación
 1. Bajar el proy de Git
