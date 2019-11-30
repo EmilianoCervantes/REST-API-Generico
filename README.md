@@ -20,3 +20,7 @@
 2. Dar npm install
 3. Editar el archivo db.json si se necesita
 4. En la terminal correr \> npm start
+
+
+# Librerías instaladas
+1. json-server: https://github.com/typicode/json-server
