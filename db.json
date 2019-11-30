@@ -347,7 +347,7 @@
     {
       "id": 0,
       "folio": "1575-1415-2773-4",
-      "nombre_paciente": "Alfredo"
+      "nombre_paciente": "Alfredo",
       "apellido_paciente": "Puente Vasconcelos",
       "fecha_nac": "1-dic-1995",
       "genero": "masculino",
@@ -362,7 +362,7 @@
     {
       "id": 1,
       "folio": "1575-1416-4434-7",
-      "nombre_paciente": "Alejandra"
+      "nombre_paciente": "Alejandra",
       "apellido_paciente": "Medrano",
       "fecha_nac": "16-nov-1990",
       "genero": "masculino",
@@ -377,7 +377,7 @@
     {
       "id": 2,
       "folio": "1575-1415-2773-4",
-      "nombre_paciente": "Michelle"
+      "nombre_paciente": "Michelle",
       "apellido_paciente": "Guadarrama",
       "fecha_nac": "1-dic-1995",
       "genero": "masculino",
@@ -392,7 +392,7 @@
     {
       "id": 3,
       "folio": "1575-1416-4434-7",
-      "nombre_paciente": "Jair"
+      "nombre_paciente": "Jair",
       "apellido_paciente": "Sánchez",
       "fecha_nac": "1-dic-1995",
       "genero": "masculino",
@@ -407,7 +407,7 @@
     {
       "id": 4,
       "folio": "1575-1415-2773-4",
-      "nombre_paciente": "Romeo"
+      "nombre_paciente": "Romeo",
       "apellido_paciente": "Estrada",
       "fecha_nac": "9-sep-1987",
       "genero": "masculino",
@@ -422,7 +422,7 @@
     {
       "id": 5,
       "folio": "1575-1416-4434-7",
-      "nombre_paciente": "Miguel Ignacio"
+      "nombre_paciente": "Miguel Ignacio",
       "apellido_paciente": "Mendoza Donatti",
       "fecha_nac": "22-ago-1983",
       "genero": "masculino",
@@ -437,7 +437,7 @@
     {
       "id": 6,
       "folio": "1575-1415-2773-4",
-      "nombre_paciente": "Inger"
+      "nombre_paciente": "Inger",
       "apellido_paciente": "Devera",
       "fecha_nac": "1-dic-1995",
       "genero": "masculino",
@@ -452,7 +452,7 @@
     {
       "id": 7,
       "folio": "1575-1416-4434-7",
-      "nombre_paciente": "Jesús Alberto"
+      "nombre_paciente": "Jesús Alberto",
       "apellido_paciente": "Miranda Pérez",
       "fecha_nac": "1-jul-1994",
       "genero": "masculino",
@@ -467,7 +467,7 @@
     {
       "id": 8,
       "folio": "1575-1415-2773-4",
-      "nombre_paciente": "Natasha"
+      "nombre_paciente": "Natasha",
       "apellido_paciente": "Araos",
       "fecha_nac": "15-nov-1984",
       "genero": "masculino",
@@ -482,7 +482,7 @@
     {
       "id": 9,
       "folio": "1575-1416-4434-7",
-      "nombre_paciente": "Adamari"
+      "nombre_paciente": "Adamari",
       "apellido_paciente": "López",
       "fecha_nac": "18-may-1971",
       "genero": "masculino",
